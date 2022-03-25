@@ -1,4 +1,4 @@
-# FrequencyMeter-
+# FrequencyMeter
 FPGA EP4CE6F17C8实现，频率也由FPGA输出
 使用quartus ii 将文件下载至FPGA板，连接FPGA的T13，R13管脚，使用signaltap显示测量值M，N
 fre=N/M*50_000_000
