@@ -65,7 +65,7 @@ Signal_in_div_module Signal_in_div_module_inst//输入信号16分频
 
 //得到两种输入信号再同步
 //输入信号同步
-Signal_in_synchronize_module Signal_in_synchronize_module_inst1//输入信号同步（未分频）
+Signal_in_synchronize_module Signal_in_synchronize_module_inst1//输入时钟信号同步（未分频）
 (
 	.clk_50M(clk_50M),	// input  clk_50M_sig
 	.rst(rst),	// input  rst_sig
@@ -73,7 +73,7 @@ Signal_in_synchronize_module Signal_in_synchronize_module_inst1//输入信号同
 	.signal_in2(signal_in2_1),	// output  signal_in2_sig
 	.signal_in2_out(signal_in2_out_1) 	// output  signal_in2_out_sig
 );
-Signal_in_synchronize_module Signal_in_synchronize_module_inst2//输入信号同步（已分频）
+Signal_in_synchronize_module Signal_in_synchronize_module_inst2//输入时钟信号同步（已分频）
 (
 	.clk_50M(clk_50M),	// input  clk_50M_sig
 	.rst(rst),	// input  rst_sig
