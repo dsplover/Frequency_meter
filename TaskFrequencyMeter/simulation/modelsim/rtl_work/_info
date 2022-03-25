@@ -1,0 +1,148 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/simulation/modelsim
+vDivider_module
+!s110 1647093332
+!i10b 1
+!s100 DMH^0_dA[D;<Qf:Wg<9h42
+If<QFm62JWL]DhO5LG?cXD2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1647091102
+8F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/Divider_module.v
+FF:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/Divider_module.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1647093332.000000
+!s107 F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/Divider_module.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter|F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/Divider_module.v|
+!i113 1
+Z3 o-vlog01compat -work work
+Z4 !s92 -vlog01compat -work work {+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter}
+Z5 tCvgOpt 0
+n@divider_module
+vGate_module
+Z6 !s110 1647093333
+!i10b 1
+!s100 lGS1QQoNEEHelaM=NzQZ21
+I^DR:d]<0^V7b8J74leXQ=1
+R1
+R0
+w1647089078
+8F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/Gate_module.v
+FF:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/Gate_module.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z7 !s108 1647093333.000000
+!s107 F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/Gate_module.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter|F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/Gate_module.v|
+!i113 1
+R3
+R4
+R5
+n@gate_module
+vPLL
+R6
+!i10b 1
+!s100 @CYcKAOY504UlcJT4>NKV1
+I60doGD::@Cn3@[zJUCBOk2
+R1
+R0
+w1647074667
+8F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/PLL.v
+FF:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/PLL.v
+L0 39
+R2
+r1
+!s85 0
+31
+R7
+!s107 F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/PLL.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter|F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/PLL.v|
+!i113 1
+R3
+R4
+R5
+n@p@l@l
+vPLL_altpll
+R6
+!i10b 1
+!s100 N5@h=]?7_Y@X:2UM9H;`G0
+IIBzm3FOj65RFJcg]VfL1:1
+R1
+R0
+w1647077367
+8F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/db/pll_altpll.v
+FF:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/db/pll_altpll.v
+L0 29
+R2
+r1
+!s85 0
+31
+R7
+!s107 F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/db/pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/db|F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/db/pll_altpll.v|
+!i113 1
+R3
+!s92 -vlog01compat -work work {+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/db}
+R5
+n@p@l@l_altpll
+vTaskFrequencyMeter
+R6
+!i10b 1
+!s100 ;Ni]]L4j93M5b>0b<d^8J3
+IQSJh;B9Mf`ak?_53oekXi0
+R1
+R0
+w1647089076
+8F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/TaskFrequencyMeter.v
+FF:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/TaskFrequencyMeter.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/TaskFrequencyMeter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter|F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/TaskFrequencyMeter.v|
+!i113 1
+R3
+R4
+R5
+n@task@frequency@meter
+vTaskFrequencyMeter_vlg_tst
+R6
+!i10b 1
+!s100 3aX87Q4_c<6I<=>U483o02
+IMPnWlS;cfLcn92IPi9iUj2
+R1
+R0
+w1647063001
+8F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/simulation/modelsim/TaskFrequencyMeter.vt
+FF:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/simulation/modelsim/TaskFrequencyMeter.vt
+L0 28
+R2
+r1
+!s85 0
+31
+R7
+!s107 F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/simulation/modelsim/TaskFrequencyMeter.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/simulation/modelsim|F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/simulation/modelsim/TaskFrequencyMeter.vt|
+!i113 1
+R3
+!s92 -vlog01compat -work work {+incdir+F:/Users/Fu Yuhao/Desktop/Quartus/TaskFrequencyMeter/simulation/modelsim}
+R5
+n@task@frequency@meter_vlg_tst
