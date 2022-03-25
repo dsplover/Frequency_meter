@@ -7,7 +7,7 @@ module Signal_in_synchronize_module
 	output signal_in2_out
 );
 
-//捕获待测信号的上升沿，为防止亚稳态，所存两次
+//捕获待测信号的上升沿，为防止亚稳态，锁存两次
 reg signal_reg1;
 reg signal_reg2;
 
