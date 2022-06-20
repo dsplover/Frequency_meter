@@ -1,5 +1,5 @@
 # Frequency_meter  
-**FPGA Cyclone IV EP4CE6F17C8实现FrequencyMeter(频率计)**  
+**FPGA Cyclone IV EP4CE6F17C8实现Frequency_meter(频率计)**  
 频率也由FPGA输出  
 使用Quartus ii 将文件下载至FPGA板，连接FPGA的T13，R13管脚，使用signaltap显示测量值M，N  
 fre=N/M*50_000_000  
